@@ -30,7 +30,7 @@
 | Project | Description | Tools |
 |---|---|---|
 | 🏗️ **Bridge Crane (Puente Grúa)** | FPGA-based crane controller | VHDL |
-| 💨 **Wind Turbine Measurement System** | Sensor data acquisition and display for an anemometer | Arduino + Processing |
+| 💨 **Wind Turbine Measurement System** | Data acquisition and visualization system for a wind turbine, mainly focused on measuring the energy generated. | Arduino + Processing |
 | 🔍 **PIR Motion Sensor System** ✅ | Motion detection with interrupt-based event logging | Arduino C |
 
 ---
