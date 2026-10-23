@@ -51,6 +51,8 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge&logo=autodesk&logoColor=white)
+
 
 ---
 
